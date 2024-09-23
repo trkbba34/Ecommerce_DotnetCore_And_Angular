@@ -8,7 +8,7 @@ $customTheme: mat.define-theme();
 
 @include mat.core();
 
-.custom-them {
+.custom-theme {
   @include mat.all-component-themes($customTheme);
 
   // override the button styles
@@ -22,4 +22,12 @@ $customTheme: mat.define-theme();
 
 .container {
   @apply mx-auto max-w-screen-2xl;
+}
+
+.text-primary {
+  color: #7d00fa;
+}
+
+button.match-input-height {
+  height: var(--mat-form-field-container-height) !important;
 }
