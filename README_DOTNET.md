@@ -22,8 +22,8 @@ builder.Services.AddDbContext<StoreContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 dotnet ef migrations add InitialCreate -s API -p Infrastructure
-dotnet ef database update -s API -p Infrastructure
 dotnet ef database drop -p Infrastructure -s API
+dotnet ef database update -s API -p Infrastructure
 
 - shotcut:
 prop : for property

@@ -134,3 +134,5 @@ C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\refint\API.dl
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\API.pdb
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\StackExchange.Redis.dll
