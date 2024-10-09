@@ -136,3 +136,9 @@ C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\API.genruntim
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\obj\Debug\net8.0\ref\API.dll
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

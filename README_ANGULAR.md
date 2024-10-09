@@ -10,9 +10,11 @@ interceptor:ng g interceptor core/services/
 +id => conver id from string to int
 
 signal for sync ()
-the other for async (http / await)
+the other (old one like @input and @output ..) for async (http / await)
 
 
 subscripe vs pipe
 
 whats computed
+and what the difference between
+signal vs computed vs effect

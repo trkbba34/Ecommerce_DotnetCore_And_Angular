@@ -32,3 +32,10 @@ ctror: for constructor
 private: only accessible inside the class it self
 protected: like private + in any classes that derive
 
+
+create migration
+dotnet ef migrations add IdentityAdded -s API -p Infrastructure
+
+DTOs for validation
+
+[required]... :  data annotations
