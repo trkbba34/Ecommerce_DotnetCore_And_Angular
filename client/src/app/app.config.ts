@@ -8,10 +8,11 @@ import { provideRouter } from '@angular/router';
 import { routes } from './app.routes';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
 import { provideHttpClient, withInterceptors } from '@angular/common/http';
-import { errorInterceptor } from './core/interceptor/error.interceptor';
-import { laodingInterceptor } from './core/interceptor/laoding.interceptor';
+import { errorInterceptor } from './core/interceptors/error.interceptor';
+import { laodingInterceptor } from './core/interceptors/laoding.interceptor';
 import { InitService } from './core/services/init.service';
 import { lastValueFrom } from 'rxjs';
+import { authInterceptor } from './core/interceptors/auth.interceptor';
 
 function initializeApp(InitService: InitService) {
   return () =>
@@ -28,7 +29,9 @@ export const appConfig: ApplicationConfig = {
     provideZoneChangeDetection({ eventCoalescing: true }),
     provideRouter(routes),
     provideAnimationsAsync(),
-    provideHttpClient(withInterceptors([errorInterceptor, laodingInterceptor])),
+    provideHttpClient(
+      withInterceptors([errorInterceptor, laodingInterceptor, authInterceptor])
+    ),
     {
       provide: APP_INITIALIZER,
       useFactory: initializeApp,
