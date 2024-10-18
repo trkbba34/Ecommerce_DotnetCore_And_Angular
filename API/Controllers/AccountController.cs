@@ -19,7 +19,7 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
             FirstName = registerDto.FirstName,
             LastName = registerDto.LastName,
             Email = registerDto.Email,
-            UserName = registerDto.Email,
+            UserName = registerDto.Email
         };
 
         var result = await signInManager.UserManager.CreateAsync(user, registerDto.Password);
@@ -30,6 +30,7 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
             {
                 ModelState.AddModelError(error.Code, error.Description);
             }
+
             return ValidationProblem();
         }
 
@@ -41,10 +42,10 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
     public async Task<ActionResult> Logout()
     {
         await signInManager.SignOutAsync();
+
         return NoContent();
     }
 
-    [Authorize]
     [HttpGet("user-info")]
     public async Task<ActionResult> GetUserInfo()
     {
@@ -61,18 +62,15 @@ public class AccountController(SignInManager<AppUser> signInManager) : BaseApiCo
         });
     }
 
-    [HttpGet]
+    [HttpGet("auth-status")]
     public ActionResult GetAuthState()
     {
-        return Ok(new
-        {
-            IsAuthenticated = User.Identity?.IsAuthenticated ?? false
-        });
+        return Ok(new { IsAuthenticated = User.Identity?.IsAuthenticated ?? false });
     }
 
     [Authorize]
     [HttpPost("address")]
-    public async Task<ActionResult<Address>> CreateOrUpdate(AddressDto addressDto)
+    public async Task<ActionResult<Address>> CreateOrUpdateAddress(AddressDto addressDto)
     {
         var user = await signInManager.UserManager.GetUserByEmailWithAddress(User);
 

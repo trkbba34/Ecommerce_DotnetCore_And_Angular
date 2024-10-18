@@ -1,8 +1,10 @@
 ng serve 
 
-components: ng g c layout/header
 services:   ng g s core/services/
-interceptor:ng g interceptor core/services/
+interceptor:ng g i core/interceptors/
+guard:      ng g g core/guards/
+
+components: ng g c layout/header
 
 --skip-tests
 
@@ -18,3 +20,7 @@ subscripe vs pipe
 whats computed
 and what the difference between
 signal vs computed vs effect
+
+rxjs  observable vs promis 
+"of": convert to observable 
+"map":
