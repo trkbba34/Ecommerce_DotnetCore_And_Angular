@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\TRK\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\obj\\",
+      "outputPath": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TRK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -624,7 +624,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

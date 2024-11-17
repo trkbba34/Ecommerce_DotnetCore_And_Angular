@@ -16,7 +16,7 @@ public static class AddressMappingExtensions
             City = address.City,
             State = address.State,
             Country = address.Country,
-            PostalCode = address.PostalCode
+            PostalCode = address.PostalCode,
         };
     }
 
@@ -31,7 +31,7 @@ public static class AddressMappingExtensions
             City = addressDto.City,
             State = addressDto.State,
             Country = addressDto.Country,
-            PostalCode = addressDto.PostalCode
+            PostalCode = addressDto.PostalCode,
         };
     }
 
@@ -47,5 +47,4 @@ public static class AddressMappingExtensions
         address.Country = addressDto.Country;
         address.PostalCode = addressDto.PostalCode;
     }
-
 }
