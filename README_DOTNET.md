@@ -39,3 +39,10 @@ dotnet ef migrations add IdentityAdded -s API -p Infrastructure
 DTOs for validation
 
 [required]... :  data annotations
+
+#publish
+drop database: dotnet ef database drop -p Infrastructure -s API
+debug errors : dotnet build
+generé l'app : dotnet run
+
+dotnet publish -c Release -o ./bin/Publish

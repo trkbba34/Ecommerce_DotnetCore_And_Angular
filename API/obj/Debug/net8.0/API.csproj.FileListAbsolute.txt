@@ -135,3 +135,6 @@ C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.Ext
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Stripe.net.dll
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Data\SeedData\delivery.json
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\Data\SeedData\products.json
+C:\Users\TRK\source\repos\ecommerce\ecommerce\API\bin\Debug\net8.0\API.staticwebassets.runtime.json

@@ -26,3 +26,6 @@ rxjs observable vs promis
 "firstValueFrom":
 
 ida dert variable private fi .ts mana9derch nesta3mlo fi template 
+
+#publish
+ng build 

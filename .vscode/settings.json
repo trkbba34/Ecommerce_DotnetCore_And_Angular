@@ -1,1 +1,4 @@
-{}
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf10625a-ff4a-40dc-8552-f5c6f3316836/resourceGroups/ecommerce/providers/Microsoft.Web/sites/ecommerce-trk",
+    "appService.deploySubpath": "API\\bin\\Publish"
+}
