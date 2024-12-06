@@ -1,703 +1,19 @@
 {
   "Version": 1,
-  "Hash": "F/sGUm1EJpY1GqQrhl/tWdppFNy8daAc/vf+OfzJvY0=",
-  "Source": "API",
-  "BasePath": "_content/API",
-  "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "API\\wwwroot",
-      "Source": "API",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\3rdpartylicenses.txt",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "3rdpartylicenses#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6jpd4l8rcs",
-      "Integrity": "fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "chunk-23HOTG2A#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "7jdh1jjqje",
-      "Integrity": "w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-23HOTG2A.js"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "chunk-X4KYY7H4#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "2nmmfu4447",
-      "Integrity": "HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-X4KYY7H4.js"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\favicon.ico",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vagikyz9qx",
-      "Integrity": "+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero1.jpg",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/hero1#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9g8nky98ym",
-      "Integrity": "d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero1.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero2.jpg",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/hero2#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9em09a7zx9",
-      "Integrity": "n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero2.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero3.jpg",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/hero3#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gx8rvylj2y",
-      "Integrity": "9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero3.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero4.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/hero4#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g0irkbzfu4",
-      "Integrity": "ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\hero4.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\logo.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/logo#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "y6d1rl17od",
-      "Integrity": "Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\placeholder.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/placeholder#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "dlbf4ut9r1",
-      "Integrity": "cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\placeholder.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e7vhuam157",
-      "Integrity": "xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g3mx7ghjao",
-      "Integrity": "5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "u5gzcfuhld",
-      "Integrity": "bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "vl8j47b4zz",
-      "Integrity": "rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-redis1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-redis1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ujsmkc6cge",
-      "Integrity": "9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hjatec42kt",
-      "Integrity": "Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "7rfyrcpgaq",
-      "Integrity": "Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qkf2kkbct5",
-      "Integrity": "pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hleln2xgnm",
-      "Integrity": "2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-core1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-core1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qjn20d7mmr",
-      "Integrity": "tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ogijun3cjh",
-      "Integrity": "OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wihax8artv",
-      "Integrity": "yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "lvxtg3kj4t",
-      "Integrity": "P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "sz22xe7sgv",
-      "Integrity": "qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1035sj0izl",
-      "Integrity": "jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core2.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core2#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "drwp5gg2x0",
-      "Integrity": "56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-react1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-react1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6zxvxdfvuf",
-      "Integrity": "Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ts1.png",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ts1#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "oybcq84912",
-      "Integrity": "kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\index.html",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "index#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "wz9r5foi2n",
-      "Integrity": "XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "main-T4HCMLRS#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "5caqdfgpyo",
-      "Integrity": "K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-T4HCMLRS.js"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\polyfills-FFHMD2TL.js",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "polyfills-FFHMD2TL#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "39tegmrjtp",
-      "Integrity": "adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
-    },
-    {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
-      "SourceId": "API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
-      "BasePath": "_content/API",
-      "RelativePath": "styles-YQR76ZX5#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "muuf3ewfn2",
-      "Integrity": "EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles-YQR76ZX5.css"
-    }
-  ],
   "Endpoints": [
     {
       "Route": "3rdpartylicenses.6jpd4l8rcs.txt",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -714,10 +30,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -726,23 +38,27 @@
           "Value": "6jpd4l8rcs"
         },
         {
-          "Name": "label",
-          "Value": "3rdpartylicenses.txt"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q="
+        },
+        {
+          "Name": "label",
+          "Value": "3rdpartylicenses.txt"
         }
       ]
     },
     {
       "Route": "3rdpartylicenses.txt",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\3rdpartylicenses.txt",
+      "AssetFile": "3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -759,10 +75,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -774,12 +86,16 @@
     },
     {
       "Route": "chunk-23HOTG2A.7jdh1jjqje.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
+      "AssetFile": "chunk-23HOTG2A.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -796,10 +112,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -808,23 +120,27 @@
           "Value": "7jdh1jjqje"
         },
         {
-          "Name": "label",
-          "Value": "chunk-23HOTG2A.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU="
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-23HOTG2A.js"
         }
       ]
     },
     {
       "Route": "chunk-23HOTG2A.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
+      "AssetFile": "chunk-23HOTG2A.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -841,10 +157,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -856,12 +168,16 @@
     },
     {
       "Route": "chunk-X4KYY7H4.2nmmfu4447.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
+      "AssetFile": "chunk-X4KYY7H4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -878,10 +194,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -890,23 +202,27 @@
           "Value": "2nmmfu4447"
         },
         {
-          "Name": "label",
-          "Value": "chunk-X4KYY7H4.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg="
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-X4KYY7H4.js"
         }
       ]
     },
     {
       "Route": "chunk-X4KYY7H4.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
+      "AssetFile": "chunk-X4KYY7H4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -923,10 +239,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -938,12 +250,16 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\favicon.ico",
+      "AssetFile": "favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -960,10 +276,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sat, 21 Sep 2024 01:27:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -975,12 +287,16 @@
     },
     {
       "Route": "favicon.vagikyz9qx.ico",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\favicon.ico",
+      "AssetFile": "favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -997,10 +313,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Sat, 21 Sep 2024 01:27:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1009,23 +321,27 @@
           "Value": "vagikyz9qx"
         },
         {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-+RAr6AKXwFKSB2B75Sd7T5C8qJ1lmI+hdxuRx4lOgV8="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
         }
       ]
     },
     {
       "Route": "images/hero1.9g8nky98ym.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero1.jpg",
+      "AssetFile": "images/hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1042,10 +358,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1054,23 +366,27 @@
           "Value": "9g8nky98ym"
         },
         {
-          "Name": "label",
-          "Value": "images/hero1.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-d4nhDKcufr7XqaDSnx+kvJIxBFoh4puIFGlycTpA2bA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero1.jpg"
         }
       ]
     },
     {
       "Route": "images/hero1.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero1.jpg",
+      "AssetFile": "images/hero1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1087,10 +403,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1102,12 +414,16 @@
     },
     {
       "Route": "images/hero2.9em09a7zx9.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero2.jpg",
+      "AssetFile": "images/hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1124,10 +440,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1136,23 +448,27 @@
           "Value": "9em09a7zx9"
         },
         {
-          "Name": "label",
-          "Value": "images/hero2.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-n0391eC+9n7B0UKkKC55ahWPSUD2y4Pw138J+AVL49I="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero2.jpg"
         }
       ]
     },
     {
       "Route": "images/hero2.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero2.jpg",
+      "AssetFile": "images/hero2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1169,10 +485,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1184,12 +496,16 @@
     },
     {
       "Route": "images/hero3.gx8rvylj2y.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero3.jpg",
+      "AssetFile": "images/hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1206,10 +522,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1218,23 +530,27 @@
           "Value": "gx8rvylj2y"
         },
         {
-          "Name": "label",
-          "Value": "images/hero3.jpg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-9LzMu0OQmYpTTnDTrl2gJTzxvzE212i8QbBn2eFSdHs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero3.jpg"
         }
       ]
     },
     {
       "Route": "images/hero3.jpg",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero3.jpg",
+      "AssetFile": "images/hero3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1251,10 +567,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1266,12 +578,16 @@
     },
     {
       "Route": "images/hero4.g0irkbzfu4.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero4.png",
+      "AssetFile": "images/hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1288,10 +604,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 19 Jun 2024 08:42:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1300,23 +612,27 @@
           "Value": "g0irkbzfu4"
         },
         {
-          "Name": "label",
-          "Value": "images/hero4.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-ENxzx9mDk3m14/LV0fCueD4p9ZR7Oag3eZ6fiB8+LCM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/hero4.png"
         }
       ]
     },
     {
       "Route": "images/hero4.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\hero4.png",
+      "AssetFile": "images/hero4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1333,10 +649,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 19 Jun 2024 08:42:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1348,12 +660,16 @@
     },
     {
       "Route": "images/logo.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\logo.png",
+      "AssetFile": "images/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1370,10 +686,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 30 Jan 2020 02:52:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1385,12 +697,16 @@
     },
     {
       "Route": "images/logo.y6d1rl17od.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\logo.png",
+      "AssetFile": "images/logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1407,10 +723,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 30 Jan 2020 02:52:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1419,23 +731,27 @@
           "Value": "y6d1rl17od"
         },
         {
-          "Name": "label",
-          "Value": "images/logo.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-Cjjz/ArK6GJfh5KQHw5hd7fS5+DboxcI8iobjQTSXh8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
         }
       ]
     },
     {
       "Route": "images/placeholder.dlbf4ut9r1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "images/placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1452,10 +768,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1464,23 +776,27 @@
           "Value": "dlbf4ut9r1"
         },
         {
-          "Name": "label",
-          "Value": "images/placeholder.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-cbSUJUb5Tn92vGh9Fu4FaHmZGa727gSGcExC2DQ9DdY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/placeholder.png"
         }
       ]
     },
     {
       "Route": "images/placeholder.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\placeholder.png",
+      "AssetFile": "images/placeholder.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1497,10 +813,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 10 Aug 2021 07:02:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1512,12 +824,16 @@
     },
     {
       "Route": "images/products/boot-ang1.e7vhuam157.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "images/products/boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1534,10 +850,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:43:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1546,23 +858,27 @@
           "Value": "e7vhuam157"
         },
         {
-          "Name": "label",
-          "Value": "images/products/boot-ang1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-xmGtQ/ov0kvlvjTxjF9FbnCgf05e4PKRHqDHqygKASA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-ang1.png"
         }
       ]
     },
     {
       "Route": "images/products/boot-ang1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang1.png",
+      "AssetFile": "images/products/boot-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1579,10 +895,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:43:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1594,12 +906,16 @@
     },
     {
       "Route": "images/products/boot-ang2.g3mx7ghjao.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "images/products/boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1616,10 +932,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:42:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1628,23 +940,27 @@
           "Value": "g3mx7ghjao"
         },
         {
-          "Name": "label",
-          "Value": "images/products/boot-ang2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-5JoBm+7SQMe5qjPglK+I3AIeVHm+RjNhKeX4YVIJ0UE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-ang2.png"
         }
       ]
     },
     {
       "Route": "images/products/boot-ang2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-ang2.png",
+      "AssetFile": "images/products/boot-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1661,10 +977,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:42:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1676,12 +988,16 @@
     },
     {
       "Route": "images/products/boot-core1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "images/products/boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1698,10 +1014,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1713,12 +1025,16 @@
     },
     {
       "Route": "images/products/boot-core1.u5gzcfuhld.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core1.png",
+      "AssetFile": "images/products/boot-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1735,10 +1051,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:41:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1747,23 +1059,27 @@
           "Value": "u5gzcfuhld"
         },
         {
-          "Name": "label",
-          "Value": "images/products/boot-core1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-bntkuUAVHMq5IpXPbleh2W0/5XFH8yL1PES4OI6xujE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-core1.png"
         }
       ]
     },
     {
       "Route": "images/products/boot-core2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "images/products/boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1780,10 +1096,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:28:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1795,12 +1107,16 @@
     },
     {
       "Route": "images/products/boot-core2.vl8j47b4zz.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-core2.png",
+      "AssetFile": "images/products/boot-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1817,10 +1133,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:28:48 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1829,23 +1141,27 @@
           "Value": "vl8j47b4zz"
         },
         {
-          "Name": "label",
-          "Value": "images/products/boot-core2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-rZ2jNXEVhyKB36Yhn5iDuBOhpfliJ7uGZurMIiJIDpE="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-core2.png"
         }
       ]
     },
     {
       "Route": "images/products/boot-redis1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "images/products/boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1862,10 +1178,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:27:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -1877,12 +1189,16 @@
     },
     {
       "Route": "images/products/boot-redis1.ujsmkc6cge.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\boot-redis1.png",
+      "AssetFile": "images/products/boot-redis1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1899,10 +1215,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:27:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1911,23 +1223,27 @@
           "Value": "ujsmkc6cge"
         },
         {
-          "Name": "label",
-          "Value": "images/products/boot-redis1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-9iESOyK6uUzBgEPtBEwDtB1jtjmsjIrHo59OeB4hKfc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/boot-redis1.png"
         }
       ]
     },
     {
       "Route": "images/products/glove-code1.hjatec42kt.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "images/products/glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -1944,10 +1260,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:23:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -1956,23 +1268,27 @@
           "Value": "hjatec42kt"
         },
         {
-          "Name": "label",
-          "Value": "images/products/glove-code1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-Y+ezZKQv8e+sScXV38kKvFIyecmpaqly1MhG7nc0ZjU="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-code1.png"
         }
       ]
     },
     {
       "Route": "images/products/glove-code1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code1.png",
+      "AssetFile": "images/products/glove-code1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -1989,10 +1305,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:23:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2004,12 +1316,16 @@
     },
     {
       "Route": "images/products/glove-code2.7rfyrcpgaq.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "images/products/glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2026,10 +1342,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:24:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2038,23 +1350,27 @@
           "Value": "7rfyrcpgaq"
         },
         {
-          "Name": "label",
-          "Value": "images/products/glove-code2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-Q7/ac0PP9/h7b+5LDbAZwKwSJpHyRtPiIDgxJL4TcQQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-code2.png"
         }
       ]
     },
     {
       "Route": "images/products/glove-code2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-code2.png",
+      "AssetFile": "images/products/glove-code2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2071,10 +1387,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:24:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2086,12 +1398,16 @@
     },
     {
       "Route": "images/products/glove-react1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "images/products/glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2108,10 +1424,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:38:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2123,12 +1435,16 @@
     },
     {
       "Route": "images/products/glove-react1.qkf2kkbct5.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react1.png",
+      "AssetFile": "images/products/glove-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2145,10 +1461,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:38:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2157,23 +1469,27 @@
           "Value": "qkf2kkbct5"
         },
         {
-          "Name": "label",
-          "Value": "images/products/glove-react1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-pjAHh5j8EH/yhJoabe6GrGacnwXLonLNfLC/rpRXc98="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-react1.png"
         }
       ]
     },
     {
       "Route": "images/products/glove-react2.hleln2xgnm.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "images/products/glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2190,10 +1506,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:26:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2202,23 +1514,27 @@
           "Value": "hleln2xgnm"
         },
         {
-          "Name": "label",
-          "Value": "images/products/glove-react2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-2/NpCSssO13hKrPJOC1waB2NPE5SbK8h+CjNqm+Ecd4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/glove-react2.png"
         }
       ]
     },
     {
       "Route": "images/products/glove-react2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\glove-react2.png",
+      "AssetFile": "images/products/glove-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2235,10 +1551,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:26:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2250,12 +1562,16 @@
     },
     {
       "Route": "images/products/hat-core1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "images/products/hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2272,10 +1588,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:19:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2287,12 +1599,16 @@
     },
     {
       "Route": "images/products/hat-core1.qjn20d7mmr.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-core1.png",
+      "AssetFile": "images/products/hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2309,10 +1625,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:19:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2321,23 +1633,27 @@
           "Value": "qjn20d7mmr"
         },
         {
-          "Name": "label",
-          "Value": "images/products/hat-core1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-tiexN7PCxS9dYyouuMjWBLQgBk8COA4E0hTT2CcvV/8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-core1.png"
         }
       ]
     },
     {
       "Route": "images/products/hat-react1.ogijun3cjh.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "images/products/hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2354,10 +1670,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:20:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2366,23 +1678,27 @@
           "Value": "ogijun3cjh"
         },
         {
-          "Name": "label",
-          "Value": "images/products/hat-react1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-OK5CLuFcgddiWYp5ic3TcrA0rUki/z+mSy0rG//lvxs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-react1.png"
         }
       ]
     },
     {
       "Route": "images/products/hat-react1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react1.png",
+      "AssetFile": "images/products/hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2399,10 +1715,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:20:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2414,12 +1726,16 @@
     },
     {
       "Route": "images/products/hat-react2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "images/products/hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2436,10 +1752,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:37:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2451,12 +1763,16 @@
     },
     {
       "Route": "images/products/hat-react2.wihax8artv.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\hat-react2.png",
+      "AssetFile": "images/products/hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2473,10 +1789,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:37:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2485,23 +1797,27 @@
           "Value": "wihax8artv"
         },
         {
-          "Name": "label",
-          "Value": "images/products/hat-react2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-yEclijhBO1n3+Q9zq8I/uvzacJAmnlTijAyW08dvatk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/hat-react2.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-ang1.lvxtg3kj4t.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "images/products/sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2518,10 +1834,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:35:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2530,23 +1842,27 @@
           "Value": "lvxtg3kj4t"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-ang1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-P7Oc7lggp3Hn1PuEwu+JtdLydAzWdRbDS3voKgPiKcI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ang1.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-ang1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang1.png",
+      "AssetFile": "images/products/sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2563,10 +1879,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:35:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2578,12 +1890,16 @@
     },
     {
       "Route": "images/products/sb-ang2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "images/products/sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2600,10 +1916,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:15:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2615,12 +1927,16 @@
     },
     {
       "Route": "images/products/sb-ang2.sz22xe7sgv.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ang2.png",
+      "AssetFile": "images/products/sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2637,10 +1953,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:15:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2649,23 +1961,27 @@
           "Value": "sz22xe7sgv"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-ang2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-qKSIjAnNZ/Zjj0OkYkvTs2nJ3fH9malZElrh3fm9Ib0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ang2.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-core1.1035sj0izl.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "images/products/sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2682,10 +1998,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:16:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2694,23 +2006,27 @@
           "Value": "1035sj0izl"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-core1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-jxlt8U+vPLTIU3PS5FlTiU7bn7R3JBx/aAVWtT2lnms="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-core1.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-core1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core1.png",
+      "AssetFile": "images/products/sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2727,10 +2043,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:16:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2742,12 +2054,16 @@
     },
     {
       "Route": "images/products/sb-core2.drwp5gg2x0.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "images/products/sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2764,10 +2080,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:36:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2776,23 +2088,27 @@
           "Value": "drwp5gg2x0"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-core2.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-56h00EwFZBT2XniIdWyg5+AlZSjwvVljxjhnBSLnLM0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-core2.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-core2.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-core2.png",
+      "AssetFile": "images/products/sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2809,10 +2125,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 10 Jul 2024 08:36:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2824,12 +2136,16 @@
     },
     {
       "Route": "images/products/sb-react1.6zxvxdfvuf.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "images/products/sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2846,10 +2162,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:18:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2858,23 +2170,27 @@
           "Value": "6zxvxdfvuf"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-react1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-Pn3LLLyW2wjuF7f5HCEZrQblg03YCqxSX7QLsMHTuRM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-react1.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-react1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-react1.png",
+      "AssetFile": "images/products/sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2891,10 +2207,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:18:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2906,12 +2218,16 @@
     },
     {
       "Route": "images/products/sb-ts1.oybcq84912.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "images/products/sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -2928,10 +2244,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:18:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -2940,23 +2252,27 @@
           "Value": "oybcq84912"
         },
         {
-          "Name": "label",
-          "Value": "images/products/sb-ts1.png"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-kMGtFCtEzbVNQkb1UmqmtHrzRvKCBiLOjnhlzKkQq1E="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/sb-ts1.png"
         }
       ]
     },
     {
       "Route": "images/products/sb-ts1.png",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\images\\products\\sb-ts1.png",
+      "AssetFile": "images/products/sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -2973,10 +2289,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 18 Jun 2024 09:18:51 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -2988,12 +2300,16 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\index.html",
+      "AssetFile": "index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -3010,10 +2326,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -3025,12 +2337,16 @@
     },
     {
       "Route": "index.wz9r5foi2n.html",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\index.html",
+      "AssetFile": "index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -3047,10 +2363,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -3059,23 +2371,27 @@
           "Value": "wz9r5foi2n"
         },
         {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
         }
       ]
     },
     {
       "Route": "main-T4HCMLRS.5caqdfgpyo.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
+      "AssetFile": "main-T4HCMLRS.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -3092,10 +2408,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -3104,23 +2416,27 @@
           "Value": "5caqdfgpyo"
         },
         {
-          "Name": "label",
-          "Value": "main-T4HCMLRS.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs="
+        },
+        {
+          "Name": "label",
+          "Value": "main-T4HCMLRS.js"
         }
       ]
     },
     {
       "Route": "main-T4HCMLRS.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
+      "AssetFile": "main-T4HCMLRS.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -3137,10 +2453,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -3152,12 +2464,16 @@
     },
     {
       "Route": "polyfills-FFHMD2TL.39tegmrjtp.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetFile": "polyfills-FFHMD2TL.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -3174,10 +2490,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -3186,23 +2498,27 @@
           "Value": "39tegmrjtp"
         },
         {
-          "Name": "label",
-          "Value": "polyfills-FFHMD2TL.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-adzqBFZD3Q3pmKPNDMu7RrRr/yZRqHpWxzwo6yCOj5g="
+        },
+        {
+          "Name": "label",
+          "Value": "polyfills-FFHMD2TL.js"
         }
       ]
     },
     {
       "Route": "polyfills-FFHMD2TL.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\polyfills-FFHMD2TL.js",
+      "AssetFile": "polyfills-FFHMD2TL.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -3219,10 +2535,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -3234,12 +2546,16 @@
     },
     {
       "Route": "styles-YQR76ZX5.css",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
+      "AssetFile": "styles-YQR76ZX5.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -3256,10 +2572,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -3271,12 +2583,16 @@
     },
     {
       "Route": "styles-YQR76ZX5.muuf3ewfn2.css",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
+      "AssetFile": "styles-YQR76ZX5.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -3293,10 +2609,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -3305,12 +2617,12 @@
           "Value": "muuf3ewfn2"
         },
         {
-          "Name": "label",
-          "Value": "styles-YQR76ZX5.css"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ="
+        },
+        {
+          "Name": "label",
+          "Value": "styles-YQR76ZX5.css"
         }
       ]
     }
