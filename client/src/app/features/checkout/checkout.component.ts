@@ -1,6 +1,4 @@
 import { Component, inject, OnDestroy, OnInit, signal } from '@angular/core';
-import { CartService } from '../../core/services/cart.service';
-import { CurrencyPipe } from '@angular/common';
 import { OrderSummaryComponent } from '../../shared/components/order-summary/order-summary.component';
 import { MatStepper, MatStepperModule } from '@angular/material/stepper';
 import { MatButton } from '@angular/material/button';
@@ -24,6 +22,8 @@ import { firstValueFrom } from 'rxjs';
 import { AccountService } from '../../core/services/account.service';
 import { CheckoutDeliveryComponent } from './checkout-delivery/checkout-delivery.component';
 import { CheckoutReviewComponent } from './checkout-review/checkout-review.component';
+import { CartService } from '../../core/services/cart.service';
+import { CurrencyPipe, JsonPipe } from '@angular/common';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { OrderToCreate, ShippingAddress } from '../../shared/models/order';
 import { OrderService } from '../../core/services/order.service';
@@ -32,7 +32,6 @@ import { OrderService } from '../../core/services/order.service';
   selector: 'app-checkout',
   standalone: true,
   imports: [
-    CurrencyPipe,
     OrderSummaryComponent,
     MatStepperModule,
     MatButton,
@@ -40,6 +39,8 @@ import { OrderService } from '../../core/services/order.service';
     MatCheckboxModule,
     CheckoutDeliveryComponent,
     CheckoutReviewComponent,
+    CurrencyPipe,
+    JsonPipe,
     MatProgressSpinnerModule,
   ],
   templateUrl: './checkout.component.html',
@@ -48,8 +49,8 @@ import { OrderService } from '../../core/services/order.service';
 export class CheckoutComponent implements OnInit, OnDestroy {
   private stripeService = inject(StripeService);
   private snackbar = inject(SnackbarService);
-  private accountService = inject(AccountService);
   private router = inject(Router);
+  private accountService = inject(AccountService);
   private orderService = inject(OrderService);
   cartService = inject(CartService);
   addressElement?: StripeAddressElement;
@@ -113,10 +114,6 @@ export class CheckoutComponent implements OnInit, OnDestroy {
     } catch (error: any) {
       this.snackbar.error(error.message);
     }
-  }
-
-  ngOnDestroy(): void {
-    this.stripeService.disposeElements();
   }
 
   async onStepChange(event: StepperSelectionEvent) {
@@ -189,6 +186,7 @@ export class CheckoutComponent implements OnInit, OnDestroy {
       },
       deliveryMethodId: cart.deliveryMethodId,
       shippingAddress,
+      discount: this.cartService.totals()?.discount,
     };
   }
 
@@ -213,5 +211,9 @@ export class CheckoutComponent implements OnInit, OnDestroy {
 
   onSaveAddressCheckboxChange(event: MatCheckboxChange) {
     this.saveAddress = event.checked;
+  }
+
+  ngOnDestroy(): void {
+    this.stripeService.disposeElements();
   }
 }

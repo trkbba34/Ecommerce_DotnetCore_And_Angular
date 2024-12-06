@@ -1,23 +1,23 @@
 import { Component, inject, OnInit } from '@angular/core';
-import { AddressPipe } from '../../../shared/pipes/address.pipe';
-import { PaymentCardPipe } from '../../../shared/pipes/payment-card.pipe';
-import { CurrencyPipe, DatePipe } from '@angular/common';
 import { OrderService } from '../../../core/services/order.service';
-import { Order } from '../../../shared/models/order';
 import { ActivatedRoute, RouterLink } from '@angular/router';
+import { Order } from '../../../shared/models/order';
 import { MatCardModule } from '@angular/material/card';
 import { MatButton } from '@angular/material/button';
+import { CurrencyPipe, DatePipe } from '@angular/common';
+import { AddressPipe } from '../../../shared/pipes/address.pipe';
+import { PaymentCardPipe } from '../../../shared/pipes/payment-card.pipe';
 
 @Component({
   selector: 'app-order-detailed',
   standalone: true,
   imports: [
-    AddressPipe,
-    PaymentCardPipe,
-    DatePipe,
-    CurrencyPipe,
     MatCardModule,
     MatButton,
+    DatePipe,
+    CurrencyPipe,
+    AddressPipe,
+    PaymentCardPipe,
     RouterLink,
   ],
   templateUrl: './order-detailed.component.html',
@@ -29,10 +29,10 @@ export class OrderDetailedComponent implements OnInit {
   order?: Order;
 
   ngOnInit(): void {
-    this.loaderOrder();
+    this.loadOrder();
   }
 
-  loaderOrder() {
+  loadOrder() {
     const id = this.activatedRoute.snapshot.paramMap.get('id');
     if (!id) return;
     this.orderService.getOrderDetailed(+id).subscribe({

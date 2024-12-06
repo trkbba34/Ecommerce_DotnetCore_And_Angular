@@ -35,13 +35,13 @@ public class PaymentsController(IPaymentService paymentService,
     }
 
     [HttpPost("webhook")]
-    public async Task<IActionResult> stripeWebhook()
+    public async Task<IActionResult> StripeWebhook()
     {
         var json = await new StreamReader(Request.Body).ReadToEndAsync();
 
         try
         {
-            var stripeEvent = ConstructStrieEvent(json);
+            var stripeEvent = ConstructStripeEvent(json);
 
             if (stripeEvent.Data.Object is not PaymentIntent intent)
             {
@@ -55,7 +55,7 @@ public class PaymentsController(IPaymentService paymentService,
         catch (StripeException ex)
         {
             logger.LogError(ex, "Stripe webhook error");
-            return StatusCode(StatusCodes.Status500InternalServerError, "webhook error");
+            return StatusCode(StatusCodes.Status500InternalServerError, "Webhook error");
         }
         catch (Exception ex)
         {
@@ -73,7 +73,10 @@ public class PaymentsController(IPaymentService paymentService,
             var order = await unit.Repository<Order>().GetEntityWithSpec(spec)
                 ?? throw new Exception("Order not found");
 
-            if ((long)order.GetTotal() * 100 != intent.Amount)
+            var orderTotalInCents = (long)Math.Round(order.GetTotal() * 100,
+                MidpointRounding.AwayFromZero);
+
+            if (orderTotalInCents != intent.Amount)
             {
                 order.Status = OrderStatus.PaymentMismatch;
             }
@@ -94,16 +97,17 @@ public class PaymentsController(IPaymentService paymentService,
         }
     }
 
-    private Event ConstructStrieEvent(string json)
+    private Event ConstructStripeEvent(string json)
     {
         try
         {
-            return EventUtility.ConstructEvent(json, Request.Headers["Stripe-Signature"], _whSecret);
+            return EventUtility.ConstructEvent(json, Request.Headers["Stripe-Signature"],
+                _whSecret);
         }
         catch (Exception ex)
         {
             logger.LogError(ex, "Failed to construct stripe event");
-            throw new StripeException("Invalide signature");
+            throw new StripeException("Invalid signature");
         }
     }
 }

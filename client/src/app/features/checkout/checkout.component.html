@@ -38,9 +38,9 @@
         <div class="flex justify-between mt-6">
           <button matStepperPrevious mat-stroked-button>Back</button>
           <button
+            [disabled]="!completionStatus().delivery"
             matStepperNext
             mat-flat-button
-            [disabled]="!completionStatus().delivery"
           >
             Next
           </button>
@@ -51,9 +51,9 @@
         <div class="flex justify-between mt-6">
           <button matStepperPrevious mat-stroked-button>Back</button>
           <button
+            [disabled]="!completionStatus().card"
             matStepperNext
             mat-flat-button
-            [disabled]="!completionStatus().card"
           >
             Next
           </button>
@@ -63,7 +63,6 @@
         <app-checkout-review
           [confirmationToken]="confirmationToken"
         ></app-checkout-review>
-
         <div class="flex justify-between mt-6">
           <button matStepperPrevious mat-stroked-button>Back</button>
           <button
