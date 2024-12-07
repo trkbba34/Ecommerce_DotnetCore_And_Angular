@@ -1,5 +1,6 @@
 using System.Security.Claims;
 using API.DTOs;
+using Core.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -44,8 +45,24 @@ public class BuggyController : BaseApiController
         var name = User.FindFirst(ClaimTypes.Name)?.Value;
         var id = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
 
-        return Ok("Hello " + name + " with the id of " + id); 
+        return Ok("Hello " + name + " with the id of " + id);
     }
 
+    [Authorize(Roles = "Admin")]
+    [HttpGet("admin-secret")]
+    public IActionResult GetAdminSecret()
+    {
+        var name = User.FindFirst(ClaimTypes.Name)?.Value;
+        var id = User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
+        var isAdmin = User.IsInRole("Admin");
+        var roles = User.FindFirstValue(ClaimTypes.Role);
 
+        return Ok(new
+        {
+            name,
+            id,
+            isAdmin,
+            roles
+        });
+    }
 }
