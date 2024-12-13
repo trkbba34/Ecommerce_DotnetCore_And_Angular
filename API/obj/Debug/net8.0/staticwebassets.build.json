@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F/sGUm1EJpY1GqQrhl/tWdppFNy8daAc/vf+OfzJvY0=",
+  "Hash": "OHvM7NcmqZjtdv7ME4YmTY4dW1BNMY5/ettFuSuNot8=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -31,19 +31,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6jpd4l8rcs",
-      "Integrity": "fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q=",
+      "Fingerprint": "jw1kzy2fn0",
+      "Integrity": "XQ68hmQ85rXFPp8EiqGmludQlfTsOa/B5FBZxDJxoZo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6OIP53K4.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-23HOTG2A#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-6OIP53K4#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,19 +52,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7jdh1jjqje",
-      "Integrity": "w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU=",
+      "Fingerprint": "pxkg8eb8kt",
+      "Integrity": "A4LCtF4EudftXgOTT/6onle6aOr13oxyHqmaifySb6Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-23HOTG2A.js"
+      "OriginalItemSpec": "wwwroot\\chunk-6OIP53K4.js"
     },
     {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6XXA7HXI.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "chunk-X4KYY7H4#[.{fingerprint}]?.js",
+      "RelativePath": "chunk-6XXA7HXI#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -73,11 +73,347 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2nmmfu4447",
-      "Integrity": "HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg=",
+      "Fingerprint": "qvnoh5gl6r",
+      "Integrity": "GkzneHwmtm6+eWRvTBu2XmDRHB0jNpgxcEFqOT1OwrE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\chunk-X4KYY7H4.js"
+      "OriginalItemSpec": "wwwroot\\chunk-6XXA7HXI.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-7ZALJBPK.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-7ZALJBPK#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r46f258xrb",
+      "Integrity": "ywLJT2GL6R1hgkBSQJMxeAZailpBf1/YymIIjFnahDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-7ZALJBPK.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ALUEYHTV.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-ALUEYHTV#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2yrird7ra",
+      "Integrity": "t+wkiXQJ5PG0c49K7vrAPpTGzcWwvCq0Zuf/DATkE6k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-ALUEYHTV.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ARDFQVT5.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-ARDFQVT5#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "87ka0ungov",
+      "Integrity": "xCx5F5vmSx9aVDpejuuxesEHvxQ79mSl9hdzIj5dggc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-ARDFQVT5.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-CVVZZAIR.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-CVVZZAIR#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vbqaunyuzz",
+      "Integrity": "y903y3L7iDpl7xzgcQH3QKYlYs8ZUA1UuXg/mq5fNE0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-CVVZZAIR.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-IFWTMB2N.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-IFWTMB2N#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ply3jfeu0y",
+      "Integrity": "7cBfakUtTOhrYx+8A9lsqCVfFMVBJT7SgrByS/Cy4E8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-IFWTMB2N.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KIPE5YWU.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-KIPE5YWU#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2sqlia4v4f",
+      "Integrity": "0jTNWPaxxw8lU2m9lk5ZbM1IOvP6I7IdLfT82CB5Jxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-KIPE5YWU.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KRUPFW3X.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-KRUPFW3X#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0vyd3bmyex",
+      "Integrity": "RD/yggvvfS/SZzrw/XeHz4H/rMbTfGvbWZerPqiTI+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-KRUPFW3X.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-NHCNYWPV.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-NHCNYWPV#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "drqholjpk5",
+      "Integrity": "uZ3tHQwTtLID76kU4CFEst0T1PNQWqO/gJZVKrME1MI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-NHCNYWPV.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-O6DIU7OS.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-O6DIU7OS#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7pn2hz657n",
+      "Integrity": "hV4R6Gd7+Ja4+rA7ooiRd0+Q/HvvNPa7V0e2m5t2XLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-O6DIU7OS.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-PG2NKTEQ.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-PG2NKTEQ#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dycfl7p0kr",
+      "Integrity": "q89XEhbOZ4/heuFuO3aJ4/XGrI8YoQrkIhT0XQYshv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-PG2NKTEQ.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-RT6GDCM4.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-RT6GDCM4#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sz5azytwy7",
+      "Integrity": "KCgz3Mz3w2C/CQG0gWi/O/d82faKMRQwen10ivEvkwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-RT6GDCM4.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-SNP7OLTO.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-SNP7OLTO#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "twv852bas6",
+      "Integrity": "jfCziYxOV5dtgNGmBZelvIEUW2RMsdnh24mEIeZUJyU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-SNP7OLTO.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-TOZTTW5U.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-TOZTTW5U#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79vt5zwt5f",
+      "Integrity": "hes1ywYXao6Molq+G9Wfm4vRcacx8zcGbq4KAFhzpB4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-TOZTTW5U.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-UIWW3BYE.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-UIWW3BYE#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zcrqgcyuot",
+      "Integrity": "A22kR9/rGA9GdCoeHg/xLCnAk6ey4Nii8yh1x3nBZmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-UIWW3BYE.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-VTSRHXZN.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-VTSRHXZN#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4iuwsac3c5",
+      "Integrity": "bOZupBCkQjle6nn/qudeXf1K0+hAkRKC+9CVTaR6Cq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-VTSRHXZN.js"
+    },
+    {
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-WGGDT2P6.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "chunk-WGGDT2P6#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4kcnznrzr2",
+      "Integrity": "VM7iVpPp9w5aYQ7lMrwQDibvKbHwXuGoJ1IIp43TBMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chunk-WGGDT2P6.js"
     },
     {
       "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\favicon.ico",
@@ -619,19 +955,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wz9r5foi2n",
-      "Integrity": "XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA=",
+      "Fingerprint": "uof75vux8a",
+      "Integrity": "Lmx5Y7D4Y9ciQu5rzaqjJdhm1sghJIgAHGLKjFndUzw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-EX2UXHHC.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main-T4HCMLRS#[.{fingerprint}]?.js",
+      "RelativePath": "main-EX2UXHHC#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -640,11 +976,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5caqdfgpyo",
-      "Integrity": "K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs=",
+      "Fingerprint": "jx9nqkhj8c",
+      "Integrity": "+XOpQo7L5D+LEGYKzWojkDddEV6ZcQ+ooNEL8M6mQ9I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main-T4HCMLRS.js"
+      "OriginalItemSpec": "wwwroot\\main-EX2UXHHC.js"
     },
     {
       "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\polyfills-FFHMD2TL.js",
@@ -668,12 +1004,12 @@
       "OriginalItemSpec": "wwwroot\\polyfills-FFHMD2TL.js"
     },
     {
-      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
+      "Identity": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-OTBGSDZC.css",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "styles-YQR76ZX5#[.{fingerprint}]?.css",
+      "RelativePath": "styles-OTBGSDZC#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -682,16 +1018,16 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "muuf3ewfn2",
-      "Integrity": "EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ=",
+      "Fingerprint": "8x9xe33l98",
+      "Integrity": "hCUgjFHzEiL+TvSi7R/fEwnQTHiHU/kDzeL+UaKqWkg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles-YQR76ZX5.css"
+      "OriginalItemSpec": "wwwroot\\styles-OTBGSDZC.css"
     }
   ],
   "Endpoints": [
     {
-      "Route": "3rdpartylicenses.6jpd4l8rcs.txt",
+      "Route": "3rdpartylicenses.jw1kzy2fn0.txt",
       "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\3rdpartylicenses.txt",
       "Selectors": [],
       "ResponseHeaders": [
@@ -709,11 +1045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q=\""
+          "Value": "\"XQ68hmQ85rXFPp8EiqGmludQlfTsOa/B5FBZxDJxoZo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -723,7 +1059,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6jpd4l8rcs"
+          "Value": "jw1kzy2fn0"
         },
         {
           "Name": "label",
@@ -731,7 +1067,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q="
+          "Value": "sha256-XQ68hmQ85rXFPp8EiqGmludQlfTsOa/B5FBZxDJxoZo="
         }
       ]
     },
@@ -754,11 +1090,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q=\""
+          "Value": "\"XQ68hmQ85rXFPp8EiqGmludQlfTsOa/B5FBZxDJxoZo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -768,13 +1104,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fgWLFSIq9pDDFsfu1tg3RA8TvrktgbBiGaJS6Iu4y/Q="
+          "Value": "sha256-XQ68hmQ85rXFPp8EiqGmludQlfTsOa/B5FBZxDJxoZo="
         }
       ]
     },
     {
-      "Route": "chunk-23HOTG2A.7jdh1jjqje.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
+      "Route": "chunk-6OIP53K4.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6OIP53K4.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -783,7 +1119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189252"
+          "Value": "4848"
         },
         {
           "Name": "Content-Type",
@@ -791,11 +1127,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU=\""
+          "Value": "\"A4LCtF4EudftXgOTT/6onle6aOr13oxyHqmaifySb6Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A4LCtF4EudftXgOTT/6onle6aOr13oxyHqmaifySb6Q="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-6OIP53K4.pxkg8eb8kt.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6OIP53K4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4848"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A4LCtF4EudftXgOTT/6onle6aOr13oxyHqmaifySb6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -805,21 +1178,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7jdh1jjqje"
+          "Value": "pxkg8eb8kt"
         },
         {
           "Name": "label",
-          "Value": "chunk-23HOTG2A.js"
+          "Value": "chunk-6OIP53K4.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU="
+          "Value": "sha256-A4LCtF4EudftXgOTT/6onle6aOr13oxyHqmaifySb6Q="
         }
       ]
     },
     {
-      "Route": "chunk-23HOTG2A.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-23HOTG2A.js",
+      "Route": "chunk-6XXA7HXI.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6XXA7HXI.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -828,7 +1201,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "189252"
+          "Value": "4267"
         },
         {
           "Name": "Content-Type",
@@ -836,11 +1209,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU=\""
+          "Value": "\"GkzneHwmtm6+eWRvTBu2XmDRHB0jNpgxcEFqOT1OwrE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -850,13 +1223,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w9s7aZhnhvVbFcQwphGYP/jydrt6KFcyXiUD+m6iCbU="
+          "Value": "sha256-GkzneHwmtm6+eWRvTBu2XmDRHB0jNpgxcEFqOT1OwrE="
         }
       ]
     },
     {
-      "Route": "chunk-X4KYY7H4.2nmmfu4447.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
+      "Route": "chunk-6XXA7HXI.qvnoh5gl6r.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-6XXA7HXI.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -865,7 +1238,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "63574"
+          "Value": "4267"
         },
         {
           "Name": "Content-Type",
@@ -873,11 +1246,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg=\""
+          "Value": "\"GkzneHwmtm6+eWRvTBu2XmDRHB0jNpgxcEFqOT1OwrE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -887,21 +1260,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2nmmfu4447"
+          "Value": "qvnoh5gl6r"
         },
         {
           "Name": "label",
-          "Value": "chunk-X4KYY7H4.js"
+          "Value": "chunk-6XXA7HXI.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg="
+          "Value": "sha256-GkzneHwmtm6+eWRvTBu2XmDRHB0jNpgxcEFqOT1OwrE="
         }
       ]
     },
     {
-      "Route": "chunk-X4KYY7H4.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-X4KYY7H4.js",
+      "Route": "chunk-7ZALJBPK.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-7ZALJBPK.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -910,7 +1283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "63574"
+          "Value": "12491"
         },
         {
           "Name": "Content-Type",
@@ -918,11 +1291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg=\""
+          "Value": "\"ywLJT2GL6R1hgkBSQJMxeAZailpBf1/YymIIjFnahDY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -932,7 +1305,1282 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HgOVL/YL1ltdaLnuw6u0s9noVVHEjPjFQhACgYHpEZg="
+          "Value": "sha256-ywLJT2GL6R1hgkBSQJMxeAZailpBf1/YymIIjFnahDY="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-7ZALJBPK.r46f258xrb.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-7ZALJBPK.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ywLJT2GL6R1hgkBSQJMxeAZailpBf1/YymIIjFnahDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r46f258xrb"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-7ZALJBPK.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ywLJT2GL6R1hgkBSQJMxeAZailpBf1/YymIIjFnahDY="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ALUEYHTV.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ALUEYHTV.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+wkiXQJ5PG0c49K7vrAPpTGzcWwvCq0Zuf/DATkE6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+wkiXQJ5PG0c49K7vrAPpTGzcWwvCq0Zuf/DATkE6k="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ALUEYHTV.x2yrird7ra.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ALUEYHTV.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t+wkiXQJ5PG0c49K7vrAPpTGzcWwvCq0Zuf/DATkE6k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2yrird7ra"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ALUEYHTV.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t+wkiXQJ5PG0c49K7vrAPpTGzcWwvCq0Zuf/DATkE6k="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ARDFQVT5.87ka0ungov.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ARDFQVT5.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xCx5F5vmSx9aVDpejuuxesEHvxQ79mSl9hdzIj5dggc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87ka0ungov"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-ARDFQVT5.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xCx5F5vmSx9aVDpejuuxesEHvxQ79mSl9hdzIj5dggc="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-ARDFQVT5.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-ARDFQVT5.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77894"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xCx5F5vmSx9aVDpejuuxesEHvxQ79mSl9hdzIj5dggc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xCx5F5vmSx9aVDpejuuxesEHvxQ79mSl9hdzIj5dggc="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-CVVZZAIR.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-CVVZZAIR.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y903y3L7iDpl7xzgcQH3QKYlYs8ZUA1UuXg/mq5fNE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y903y3L7iDpl7xzgcQH3QKYlYs8ZUA1UuXg/mq5fNE0="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-CVVZZAIR.vbqaunyuzz.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-CVVZZAIR.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "191629"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y903y3L7iDpl7xzgcQH3QKYlYs8ZUA1UuXg/mq5fNE0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbqaunyuzz"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-CVVZZAIR.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y903y3L7iDpl7xzgcQH3QKYlYs8ZUA1UuXg/mq5fNE0="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-IFWTMB2N.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-IFWTMB2N.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7cBfakUtTOhrYx+8A9lsqCVfFMVBJT7SgrByS/Cy4E8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cBfakUtTOhrYx+8A9lsqCVfFMVBJT7SgrByS/Cy4E8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-IFWTMB2N.ply3jfeu0y.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-IFWTMB2N.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7cBfakUtTOhrYx+8A9lsqCVfFMVBJT7SgrByS/Cy4E8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ply3jfeu0y"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-IFWTMB2N.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7cBfakUtTOhrYx+8A9lsqCVfFMVBJT7SgrByS/Cy4E8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-KIPE5YWU.2sqlia4v4f.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KIPE5YWU.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jTNWPaxxw8lU2m9lk5ZbM1IOvP6I7IdLfT82CB5Jxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2sqlia4v4f"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-KIPE5YWU.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jTNWPaxxw8lU2m9lk5ZbM1IOvP6I7IdLfT82CB5Jxs="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-KIPE5YWU.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KIPE5YWU.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "147647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0jTNWPaxxw8lU2m9lk5ZbM1IOvP6I7IdLfT82CB5Jxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0jTNWPaxxw8lU2m9lk5ZbM1IOvP6I7IdLfT82CB5Jxs="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-KRUPFW3X.0vyd3bmyex.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KRUPFW3X.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RD/yggvvfS/SZzrw/XeHz4H/rMbTfGvbWZerPqiTI+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0vyd3bmyex"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-KRUPFW3X.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RD/yggvvfS/SZzrw/XeHz4H/rMbTfGvbWZerPqiTI+Y="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-KRUPFW3X.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-KRUPFW3X.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RD/yggvvfS/SZzrw/XeHz4H/rMbTfGvbWZerPqiTI+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RD/yggvvfS/SZzrw/XeHz4H/rMbTfGvbWZerPqiTI+Y="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-NHCNYWPV.drqholjpk5.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-NHCNYWPV.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uZ3tHQwTtLID76kU4CFEst0T1PNQWqO/gJZVKrME1MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "drqholjpk5"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-NHCNYWPV.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ3tHQwTtLID76kU4CFEst0T1PNQWqO/gJZVKrME1MI="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-NHCNYWPV.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-NHCNYWPV.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uZ3tHQwTtLID76kU4CFEst0T1PNQWqO/gJZVKrME1MI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uZ3tHQwTtLID76kU4CFEst0T1PNQWqO/gJZVKrME1MI="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O6DIU7OS.7pn2hz657n.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-O6DIU7OS.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hV4R6Gd7+Ja4+rA7ooiRd0+Q/HvvNPa7V0e2m5t2XLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7pn2hz657n"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-O6DIU7OS.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hV4R6Gd7+Ja4+rA7ooiRd0+Q/HvvNPa7V0e2m5t2XLw="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-O6DIU7OS.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-O6DIU7OS.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hV4R6Gd7+Ja4+rA7ooiRd0+Q/HvvNPa7V0e2m5t2XLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hV4R6Gd7+Ja4+rA7ooiRd0+Q/HvvNPa7V0e2m5t2XLw="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-PG2NKTEQ.dycfl7p0kr.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-PG2NKTEQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q89XEhbOZ4/heuFuO3aJ4/XGrI8YoQrkIhT0XQYshv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dycfl7p0kr"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-PG2NKTEQ.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q89XEhbOZ4/heuFuO3aJ4/XGrI8YoQrkIhT0XQYshv8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-PG2NKTEQ.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-PG2NKTEQ.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q89XEhbOZ4/heuFuO3aJ4/XGrI8YoQrkIhT0XQYshv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q89XEhbOZ4/heuFuO3aJ4/XGrI8YoQrkIhT0XQYshv8="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-RT6GDCM4.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-RT6GDCM4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCgz3Mz3w2C/CQG0gWi/O/d82faKMRQwen10ivEvkwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCgz3Mz3w2C/CQG0gWi/O/d82faKMRQwen10ivEvkwg="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-RT6GDCM4.sz5azytwy7.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-RT6GDCM4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KCgz3Mz3w2C/CQG0gWi/O/d82faKMRQwen10ivEvkwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sz5azytwy7"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-RT6GDCM4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KCgz3Mz3w2C/CQG0gWi/O/d82faKMRQwen10ivEvkwg="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-SNP7OLTO.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-SNP7OLTO.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfCziYxOV5dtgNGmBZelvIEUW2RMsdnh24mEIeZUJyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfCziYxOV5dtgNGmBZelvIEUW2RMsdnh24mEIeZUJyU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-SNP7OLTO.twv852bas6.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-SNP7OLTO.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63600"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jfCziYxOV5dtgNGmBZelvIEUW2RMsdnh24mEIeZUJyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "twv852bas6"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-SNP7OLTO.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jfCziYxOV5dtgNGmBZelvIEUW2RMsdnh24mEIeZUJyU="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-TOZTTW5U.79vt5zwt5f.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-TOZTTW5U.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hes1ywYXao6Molq+G9Wfm4vRcacx8zcGbq4KAFhzpB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79vt5zwt5f"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-TOZTTW5U.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hes1ywYXao6Molq+G9Wfm4vRcacx8zcGbq4KAFhzpB4="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-TOZTTW5U.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-TOZTTW5U.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hes1ywYXao6Molq+G9Wfm4vRcacx8zcGbq4KAFhzpB4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hes1ywYXao6Molq+G9Wfm4vRcacx8zcGbq4KAFhzpB4="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-UIWW3BYE.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-UIWW3BYE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A22kR9/rGA9GdCoeHg/xLCnAk6ey4Nii8yh1x3nBZmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A22kR9/rGA9GdCoeHg/xLCnAk6ey4Nii8yh1x3nBZmA="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-UIWW3BYE.zcrqgcyuot.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-UIWW3BYE.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A22kR9/rGA9GdCoeHg/xLCnAk6ey4Nii8yh1x3nBZmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcrqgcyuot"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-UIWW3BYE.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A22kR9/rGA9GdCoeHg/xLCnAk6ey4Nii8yh1x3nBZmA="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-VTSRHXZN.4iuwsac3c5.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-VTSRHXZN.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOZupBCkQjle6nn/qudeXf1K0+hAkRKC+9CVTaR6Cq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4iuwsac3c5"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-VTSRHXZN.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOZupBCkQjle6nn/qudeXf1K0+hAkRKC+9CVTaR6Cq0="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-VTSRHXZN.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-VTSRHXZN.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21938"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bOZupBCkQjle6nn/qudeXf1K0+hAkRKC+9CVTaR6Cq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bOZupBCkQjle6nn/qudeXf1K0+hAkRKC+9CVTaR6Cq0="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-WGGDT2P6.4kcnznrzr2.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-WGGDT2P6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VM7iVpPp9w5aYQ7lMrwQDibvKbHwXuGoJ1IIp43TBMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4kcnznrzr2"
+        },
+        {
+          "Name": "label",
+          "Value": "chunk-WGGDT2P6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VM7iVpPp9w5aYQ7lMrwQDibvKbHwXuGoJ1IIp43TBMQ="
+        }
+      ]
+    },
+    {
+      "Route": "chunk-WGGDT2P6.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\chunk-WGGDT2P6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VM7iVpPp9w5aYQ7lMrwQDibvKbHwXuGoJ1IIp43TBMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VM7iVpPp9w5aYQ7lMrwQDibvKbHwXuGoJ1IIp43TBMQ="
         }
       ]
     },
@@ -2997,7 +4645,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106275"
+          "Value": "106734"
         },
         {
           "Name": "Content-Type",
@@ -3005,11 +4653,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA=\""
+          "Value": "\"Lmx5Y7D4Y9ciQu5rzaqjJdhm1sghJIgAHGLKjFndUzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3019,12 +4667,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA="
+          "Value": "sha256-Lmx5Y7D4Y9ciQu5rzaqjJdhm1sghJIgAHGLKjFndUzw="
         }
       ]
     },
     {
-      "Route": "index.wz9r5foi2n.html",
+      "Route": "index.uof75vux8a.html",
       "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3034,7 +4682,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "106275"
+          "Value": "106734"
         },
         {
           "Name": "Content-Type",
@@ -3042,11 +4690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA=\""
+          "Value": "\"Lmx5Y7D4Y9ciQu5rzaqjJdhm1sghJIgAHGLKjFndUzw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3056,7 +4704,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wz9r5foi2n"
+          "Value": "uof75vux8a"
         },
         {
           "Name": "label",
@@ -3064,13 +4712,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-XCzbPnI7NeJgmY4fC4zZr8L6072Z7+surbC2OsUaONA="
+          "Value": "sha256-Lmx5Y7D4Y9ciQu5rzaqjJdhm1sghJIgAHGLKjFndUzw="
         }
       ]
     },
     {
-      "Route": "main-T4HCMLRS.5caqdfgpyo.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
+      "Route": "main-EX2UXHHC.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-EX2UXHHC.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3079,7 +4727,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "742684"
+          "Value": "125678"
         },
         {
           "Name": "Content-Type",
@@ -3087,56 +4735,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs=\""
+          "Value": "\"+XOpQo7L5D+LEGYKzWojkDddEV6ZcQ+ooNEL8M6mQ9I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "5caqdfgpyo"
-        },
-        {
-          "Name": "label",
-          "Value": "main-T4HCMLRS.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs="
-        }
-      ]
-    },
-    {
-      "Route": "main-T4HCMLRS.js",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-T4HCMLRS.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "742684"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3146,7 +4749,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K0CprwO8wqS7g6lBjLVjr3408eNQuref+ZFvbvPXFDs="
+          "Value": "sha256-+XOpQo7L5D+LEGYKzWojkDddEV6ZcQ+ooNEL8M6mQ9I="
+        }
+      ]
+    },
+    {
+      "Route": "main-EX2UXHHC.jx9nqkhj8c.js",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\main-EX2UXHHC.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+XOpQo7L5D+LEGYKzWojkDddEV6ZcQ+ooNEL8M6mQ9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jx9nqkhj8c"
+        },
+        {
+          "Name": "label",
+          "Value": "main-EX2UXHHC.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+XOpQo7L5D+LEGYKzWojkDddEV6ZcQ+ooNEL8M6mQ9I="
         }
       ]
     },
@@ -3173,7 +4821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3218,7 +4866,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3233,8 +4881,8 @@
       ]
     },
     {
-      "Route": "styles-YQR76ZX5.css",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
+      "Route": "styles-OTBGSDZC.8x9xe33l98.css",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-OTBGSDZC.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3243,7 +4891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "136606"
+          "Value": "136842"
         },
         {
           "Name": "Content-Type",
@@ -3251,48 +4899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ=\""
+          "Value": "\"hCUgjFHzEiL+TvSi7R/fEwnQTHiHU/kDzeL+UaKqWkg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ="
-        }
-      ]
-    },
-    {
-      "Route": "styles-YQR76ZX5.muuf3ewfn2.css",
-      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-YQR76ZX5.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "136606"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 27 Nov 2024 20:48:26 GMT"
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3302,15 +4913,52 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "muuf3ewfn2"
+          "Value": "8x9xe33l98"
         },
         {
           "Name": "label",
-          "Value": "styles-YQR76ZX5.css"
+          "Value": "styles-OTBGSDZC.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EhvMqwKCOe/xqvijLVUvZDo57LpFgcUsZFNc9LjpPxQ="
+          "Value": "sha256-hCUgjFHzEiL+TvSi7R/fEwnQTHiHU/kDzeL+UaKqWkg="
+        }
+      ]
+    },
+    {
+      "Route": "styles-OTBGSDZC.css",
+      "AssetFile": "C:\\Users\\TRK\\source\\repos\\ecommerce\\ecommerce\\API\\wwwroot\\styles-OTBGSDZC.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hCUgjFHzEiL+TvSi7R/fEwnQTHiHU/kDzeL+UaKqWkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 08 Dec 2024 00:20:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hCUgjFHzEiL+TvSi7R/fEwnQTHiHU/kDzeL+UaKqWkg="
         }
       ]
     }
